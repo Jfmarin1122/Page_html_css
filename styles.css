@@ -1,0 +1,43 @@
+#Titulo_inicial {
+    color:cornflowerblue;  
+}
+
+#titulo_secundario {
+    color: cornflowerblue;
+    width: 90%;
+    text-align:right;
+}
+
+#line {
+    color:rgb(39, 115, 255);
+    border-width: 3px;
+}
+
+#punteado {
+    border: 1px dashed grey; 
+    height: 0; 
+    width: 100%;
+}
+
+#Derechos {
+    color: gray;
+}
+
+#punt {
+    border: 1px dashed grey;
+    height: 0;
+    width: 100%;
+    margin: 0%;
+}
+
+#vertical {
+    border-left: 10px solid hsla(200, 10%, 50%,100);
+    height: 85%;
+    width: 1px;      
+    margin: none;
+}
+
+#title {
+    text-align: right;
+    color:rgb(0, 159, 252);
+}
